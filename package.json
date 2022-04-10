@@ -1,0 +1,22 @@
+{
+  "name": "loginpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdwb3219/LoginPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdwb3219/LoginPage/issues"
+  },
+  "homepage": "https://github.com/gdwb3219/LoginPage#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
